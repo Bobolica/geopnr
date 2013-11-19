@@ -1,0 +1,76 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<g id="Captions">
+			<rect x="-192" width="185" height="99"/>
+			<rect y="-36" width="100" height="30"/>
+			<text transform="matrix(1 0 0 1 66 -19.5)" fill="#000000" font-family="'Helvetica'" font-size="2.4">http://thenounproject.com</text>
+			<text transform="matrix(1 0 0 1 7.166 -24.5)"><tspan x="0" y="0" fill="#000000" font-family="'Helvetica-Bold'" font-size="6.1578">The Noun Project</tspan><tspan x="1.12" y="4.8" fill="#000000" font-family="'Helvetica-Bold'" font-size="4">Icon Template</tspan></text>
+			<text transform="matrix(1 0 0 1 -178.5 10.5)" fill="#000000" font-family="'Helvetica-Bold'" font-size="6.1578">Reminders</text>
+			<line fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" x1="8" y1="-14.5" x2="18" y2="-14.5"/>
+			<line fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" x1="-179" y1="16.5" x2="-162" y2="16.5"/>
+			<g>
+				<g>
+					<g>
+						<rect x="-170.802" y="31.318" fill="#000000" width="8.721" height="8.642"/>
+						<path fill="#000000" d="M-164.455,42.312h4.747v-4.703h-4.747V42.312z M-159.266,42.749h-5.63V37.17h5.63V42.749        L-159.266,42.749z M-166.221,44.062h8.279v-8.203h-8.279V44.062L-166.221,44.062z M-157.5,44.5h-9.163v-9.079h9.163V44.5        L-157.5,44.5z"/>
+						<polygon fill="#000000" points="-166.149,44.133 -166.292,43.991 -158.013,35.787 -157.871,35.929       "/>
+					</g>
+				</g>
+			</g>
+			<rect x="-179" y="58" fill="none" width="35" height="32.5"/>
+			<text transform="matrix(1 0 0 1 -179 60.1572)"><tspan x="0" y="0" fill="#000000" font-family="'Helvetica-Bold'" font-size="3">Strokes</tspan><tspan x="0" y="5" fill="#000000" font-family="'Helvetica'" font-size="2.4">Try to keep strokes at 4px</tspan><tspan x="0" y="10" fill="#000000" font-family="'Helvetica'" font-size="2.4">Minimum stroke weight is 2px</tspan><tspan x="0" y="14.5" fill="#000000" font-family="'Helvetica'" font-size="2.4">For thicker strokes use even </tspan><tspan x="0" y="17.5" fill="#000000" font-family="'Helvetica'" font-size="2.4">numbers: 6px, 8px etc.</tspan><tspan x="0" y="22" fill="#000000" font-family="'Helvetica-Bold'" font-size="2.4">Remember to expand strokes </tspan><tspan x="0" y="25" fill="#000000" font-family="'Helvetica-Bold'" font-size="2.4">before saving as an SVG </tspan></text>
+			<rect x="-136.5" y="58" fill="none" width="35" height="32.5"/>
+			<text transform="matrix(1 0 0 1 -136.5 60.1572)"><tspan x="0" y="0" fill="#000000" font-family="'Helvetica-Bold'" font-size="3">Size</tspan><tspan x="0" y="5" fill="#000000" font-family="'Helvetica'" font-size="2.4">Cannot be wider or taller than </tspan><tspan x="0" y="8.5" fill="#000000" font-family="'Helvetica'" font-size="2.4">100px (artboard size)</tspan><tspan x="0" y="13.5" fill="#000000" font-family="'Helvetica'" font-size="2.4">Scale your icon to fill as much of </tspan><tspan x="0" y="16.5" fill="#000000" font-family="'Helvetica'" font-size="2.4">the artboard as possible</tspan></text>
+			<rect x="-94" y="58" fill="none" width="35" height="32.5"/>
+			<text transform="matrix(1 0 0 1 -94 60.1572)"><tspan x="0" y="0" fill="#000000" font-family="'Helvetica-Bold'" font-size="3">Ungroup</tspan><tspan x="0" y="5" fill="#000000" font-family="'Helvetica'" font-size="2.4">If your design has more than one </tspan><tspan x="0" y="8" fill="#000000" font-family="'Helvetica'" font-size="2.4">shape, make sure to ungroup</tspan></text>
+			<rect x="-50" y="58" fill="none" width="35" height="32.5"/>
+			<text transform="matrix(1 0 0 1 -50 60.1572)"><tspan x="0" y="0" fill="#000000" font-family="'Helvetica-Bold'" font-size="3">Save as</tspan><tspan x="0" y="5" fill="#000000" font-family="'Helvetica'" font-size="2.4">Save as .SVG and make sure </tspan><tspan x="0" y="8" fill="#000000" font-family="'Helvetica'" font-size="2.4">&#8220;Use Artboards&#8221; is checked</tspan></text>
+			<text transform="matrix(1.0074 0 0 1 -125.542 30.5933)" fill="#000000" font-family="'Helvetica'" font-size="2.5731">100px</text>
+			<text transform="matrix(1.0074 0 0 1 -41 39)" fill="#000000" font-family="'Helvetica-Bold'" font-size="5.1462">.SVG</text>
+			<rect x="-126.514" y="34.815" fill="#000000" width="10.261" height="10.185"/>
+			<rect x="-126.477" y="31.766" fill="#000000" width="0.522" height="2.337"/>
+			<rect x="-116.812" y="31.766" fill="#000000" width="0.523" height="2.337"/>
+			<rect x="-127" y="32.337" fill="#000000" width="11.233" height="0.572"/>
+			<g>
+				<rect x="-83.805" y="33.844" fill="#000000" width="10.305" height="10.156"/>
+				<rect x="-76.809" y="28.707" fill="#000000" width="3.308" height="3.261"/>
+			</g>
+			<rect x="-178.5" y="22.5" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+			<rect x="-136.5" y="22.5" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+			<rect x="-93.5" y="22.5" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+			<rect x="-49.5" y="22.5" fill="#000000" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+		</g>
+		<g id="Your_Icon">
+			<g>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M50.332,68.249c-0.896-0.712-1.597-1.529-2.354-2.286       c-0.75-0.751-1.42-1.789-2.286-2.287c-0.71-0.407-1.62-0.621-2.354-1.008c-2.109-1.114-3.918-2.652-5.312-4.64       c-1.706-2.434-3.115-5.97-2.556-10.423c0.431-3.431,2.139-6.6,4.438-8.809c2.261-2.172,5.295-3.89,9.347-4.169       c4.25-0.293,7.789,1.291,10.155,3.161c2.65,2.095,4.34,4.502,5.245,8.002c2.083,8.054-2.484,14.674-8.204,17.281       c-0.495,0.226-1.077,0.353-1.547,0.605c-0.878,0.476-1.595,1.46-2.354,2.22C51.799,66.647,51.057,67.386,50.332,68.249z        M42.195,42.024c-1.61,1.696-3.086,4.243-2.959,7.935c0.116,3.334,1.514,5.684,3.362,7.464       c1.864,1.795,4.425,3.172,7.733,3.159c6.131-0.02,11.114-4.929,10.96-11.296c-0.044-1.853-0.396-3.046-1.075-4.505       c-1.637-3.512-5.29-6.643-10.558-6.253C46.198,38.783,43.923,40.203,42.195,42.024z"/>
+					<g>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M49.438,42c0.151-0.66,1.326-0.861,1.604-0.076        c0.125,0.353,0.141,1.893,0,2.291c-0.104,0.296-0.488,0.527-0.765,0.534C49.081,44.78,49.515,43.163,49.438,42z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M44.781,43.641c0.651-0.155,0.985,0.374,1.451,0.84        c0.378,0.378,0.747,0.705,0.764,1.069c0.023,0.521-0.394,0.885-0.84,0.877c-0.386-0.005-0.68-0.374-1.107-0.801        c-0.369-0.369-0.966-0.636-0.878-1.335C44.213,43.953,44.437,43.724,44.781,43.641z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M55.316,43.641c0.472-0.106,1.069,0.153,1.031,0.84        c-0.028,0.495-0.527,0.794-0.84,1.107c-0.357,0.357-0.661,0.814-1.107,0.839c-0.53,0.031-0.952-0.375-0.877-0.954        C53.571,45.098,54.951,43.724,55.316,43.641z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M49.82,46.122c2.276-0.262,4.345,1.495,4.124,4.046        c-0.068,0.776-0.381,1.422-0.765,1.909c-0.27,0.344-0.817,0.566-0.916,0.878c-0.196,0.623,0.089,1.663,0,2.329        c-0.128,0.966-0.937,1.539-1.488,1.679c-1.153,0.292-2.25-0.478-2.481-1.412c-0.17-0.688,0.181-1.811-0.038-2.558        c-0.06-0.201-0.398-0.398-0.611-0.61c-0.598-0.598-1.095-1.436-1.107-2.558C46.517,47.912,47.937,46.339,49.82,46.122z         M49.896,47.42c-2.272,0.203-2.727,3.623-0.572,4.503c1.384,0.567,3.205-0.226,3.283-2.06        c0.064-1.507-1.145-2.633-2.634-2.443C49.948,47.423,49.922,47.418,49.896,47.42z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M49.973,47.42c1.489-0.189,2.698,0.937,2.634,2.443        c-0.078,1.834-1.898,2.627-3.283,2.06c-2.154-0.881-1.7-4.301,0.572-4.503C49.922,47.418,49.948,47.423,49.973,47.42z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M42.567,48.909c0.414,0.028,1.784-0.179,2.252,0        c0.503,0.192,0.722,1.296-0.039,1.565c-0.316,0.112-1.907,0.136-2.29,0C41.889,50.261,41.765,49.076,42.567,48.909z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M55.813,48.909c0.468-0.12,1.917-0.106,2.214,0        c0.589,0.21,0.672,1.234,0.076,1.527c-0.46,0.226-2.244,0.192-2.596-0.077C54.972,49.95,55.227,49.06,55.813,48.909z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M45.964,52.993c0.517-0.115,1.021,0.141,1.032,0.764        c0.008,0.513-0.46,0.841-0.802,1.184c-0.363,0.363-0.723,0.814-1.145,0.839c-0.513,0.03-0.949-0.315-0.878-0.954        c0.036-0.323,0.477-0.706,0.764-0.992C45.268,53.499,45.62,53.07,45.964,52.993z"/>
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M54.172,52.993c0.648-0.122,0.985,0.413,1.45,0.878        c0.347,0.347,0.721,0.695,0.726,1.069c0.007,0.516-0.378,0.856-0.878,0.839c-0.349-0.012-0.674-0.369-1.107-0.801        c-0.382-0.382-0.976-0.702-0.839-1.412C53.573,53.301,53.777,53.067,54.172,52.993z"/>
+					</g>
+				</g>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M80.478,34.806c0,0,13.744,12.287,0.323,28.317c0,0-0.774,0.497-0.016,1.388       c0,0,1.085,1.104,2.036,1.369c0,0-0.07,0.158,0.864-0.477c0,0,16.519-14.373,0-33.368c0,0-0.874-0.641-1.683,0l-1.552,1.637       C80.451,33.672,80.247,34.038,80.478,34.806z"/>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M75.285,39.653c0,0,9.24,8.186,0.509,17.973c0,0-1.171,1.079-0.205,1.905       l1.667,0.955c0,0,1.561,1.32,2.188,0.315c0,0,9.527-10.547,0-23.177c0,0-0.666-1.392-2.017-0.632c0,0-1.534,0.695-2.143,1.33       C75.285,38.323,74.835,39.079,75.285,39.653z"/>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M70.658,45.04c0,0,3.96,4.281-0.4,8.091c0,0-0.418,0.697,0.255,1.322       l1.996,1.271c0,0,1.216,0.583,1.534,0c0,0,5.255-5.789,0.246-12.97c0,0-1.389-1.94-2.495-0.664l-1.265,1.549       C70.529,43.639,69.76,44.669,70.658,45.04z"/>
+				</g>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M19.523,62.843c0,0-13.745-12.287-0.323-28.318c0,0,0.774-0.497,0.015-1.387       c0,0-1.084-1.105-2.037-1.37c0,0,0.071-0.158-0.863,0.477c0,0-16.519,14.374,0,33.368c0,0,0.874,0.641,1.682,0l1.551-1.637       C19.548,63.976,19.752,63.609,19.523,62.843z"/>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M24.715,57.994c0,0-9.241-8.185-0.508-17.972c0,0,1.169-1.079,0.204-1.905       l-1.667-0.956c0,0-1.561-1.32-2.188-0.315c0,0-9.527,10.547,0,23.176c0,0,0.666,1.393,2.017,0.632c0,0,1.534-0.695,2.142-1.33       C24.715,59.324,25.165,58.569,24.715,57.994z"/>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M29.343,52.608c0,0-3.96-4.281,0.4-8.091c0,0,0.417-0.698-0.254-1.322       l-1.996-1.271c0,0-1.217-0.582-1.534,0c0,0-5.255,5.79-0.248,12.971c0,0,1.389,1.939,2.497,0.663l1.264-1.548       C29.471,54.01,30.241,52.979,29.343,52.608z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>

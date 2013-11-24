@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js - The HTML Presentation Framework</title>
+		<title>Présentation Géopnr avec reveal.js</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
 		<meta name="author" content="Hakim El Hattab">
@@ -264,7 +264,7 @@ Arcgis editor + OSM editor
     </div>
 
 	<aside class="notes">
-La mise sous licence ouverte des données R500 et BD Carthage est une bonne nouvelle mais dans notre contexte, cela remet en cause l'élément financier.
+La mise sous licence ouverte des données R500 et BD Carthage est une bonne nouvelle mais dans notre contexte, cela remet en cause la motivation financière qui a initiée notre démarche.
         
         
     </aside>
@@ -287,10 +287,10 @@ Ce projet est issu d'échanges avec les acteurs locaux: associations, coopérati
         </section>
         <section>
         <h2> Une dynamique locale singulière</h2>
-<iframe width="500" height="300" frameBorder="0" src="http://u.osmfr.org/fr/map/alter_2875?locateControl=0&scaleControl=0&miniMap=0&homeControl=0&scrollWheelZoom=0&allowEdit=0&editInOSMControl=0&tileLayersControl=0&jumpToLocationControl=0&embedControl=0"></iframe><p><a href="http://u.osmfr.org/fr/map/alter_2875">See full screen</a></p>
+<iframe width="500" height="300" frameBorder="0" src="http://u.osmfr.org/fr/map/alter_2875?locateControl=0&scaleControl=0&miniMap=0&homeControl=0&scrollWheelZoom=0&allowEdit=0&editInOSMControl=0&tileLayersControl=0&jumpToLocationControl=0&embedControl=0"></iframe><p> <small> <a href="http://u.osmfr.org/fr/map/alter_2875">  See full screen</a> </small></p>
 
-            <p clas="fragment" > <small></small> Un réseau d'acteurs en lien avec <a href="https://fr.wikipedia.org/wiki/%C3%89conomie_sociale">  l'économie sociale et solidaire     </a> </small> </p>
-            <p clas="fragment" > </small> Un besoin de mettre en echo ces initiatives </small> </p>
+            <p clas="fragment" > <small>Un réseau d'acteurs en lien avec <a href="https://fr.wikipedia.org/wiki/%C3%89conomie_sociale">  l'économie sociale et solidaire     </a> </small> </p>
+            <p clas="fragment" > <small> Un intérêt à mettre en écho ces initiatives par la carte	 </small> </p>
 
 
         </section>
@@ -312,7 +312,7 @@ Une étude a été menée autour des différentes plateformes existantes dont la
       </section>
       <section>
           <div style="float:right">
-      <h2> Ce que cela nécessite</h2>
+      <h2> Préalables nécessaires</h2>
           <p class="fragment" > Établir les informations à valoriser</p>
           <p class="fragment"> Les informations existantes sur le territoire</p>
          <p class="fragment"> Proposer un modèle de gouvernance ouvrant à la participation</p>
@@ -333,7 +333,7 @@ Une étude a été menée autour des différentes plateformes existantes dont la
         <p class="fragment"> Partagé avec les acteurs locaux</p>
 <br>
     <br>
-    <h2 class="fragment">Outil CHIMERE</h2>
+    <h2 class="fragment">Plateforme CHIMERE</h2>
 
     <div class="fragment"  style="float:left">
         <p><b>FONCTIONS</b></p>
@@ -348,6 +348,14 @@ Une étude a été menée autour des différentes plateformes existantes dont la
             <p>Import de données</p>
         <p></p>
     </div>
+<aside class="notes">
+L'approche participative de la plateforme implique une ouverture sur la gestion de celle-ci. 
+Le rôle du Parc étant d'assurer le fonctionnement du service et de prendre part au 
+
+L'outil Chimère a été retenu car celui-ci propose des fonctionalités sur des besoins clés.
+
+</aside>
+
       </section>
 
  <section>
@@ -357,6 +365,13 @@ Une étude a été menée autour des différentes plateformes existantes dont la
 <p class="fragment roll-in">Mise en lien avec l'initiative d'une communauté de commune locale<br>
 </p>
 </section>
+<aside class="notes">
+Le travail mené a été proposé sous forme de note auprès du Parc, une décision sur le déploiement sera prise prochainement.
+
+Il constitue une somme d'informations pour les différentes structures souhaitant mettre en place un tel dispositif.
+
+
+</aside>
 
                 </section>
 <section>
@@ -389,13 +404,14 @@ Une étude a été menée autour des différentes plateformes existantes dont la
         </section>
 
 
-          <section>
+          <sect
+ion>
                 <h1> Fin de la présentation</h1>
 
                 </section>
                 <section> <section>
                     <h2> Ressources </h2>
-      <a href="https://www.wetransfer.com/downloads/952b592d22416809b16545180aeea10920131113153535/55497661f40407b4f86576119ac6df6f20131113153535/f62f06"> dossier de présentation </a> </section>
+      <a href="rapport.pdf"> dossier de présentation </a> </section>
 <section>
                     <h2> Mentions </h2>
                    <p style="font-size:14px">

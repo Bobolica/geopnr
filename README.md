@@ -2,6 +2,7 @@ geopnr
 ======
 
 Présentation utilisée lors du geopnr.
+Vous pouvez la consulter ici : http://bobo-romania.github.io/geopnr/
 la licence d'utilisation de ce document est CC-BY
 
 Plusieurs ressources utilisées sont issues de "the noun project": 
